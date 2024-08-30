@@ -6,7 +6,6 @@
 //
 
 import UIKit
-import MBProgressHUD
 
 public let yq_sandboxTool = JY_Sandbox_Tool.yq_shared
 open class JY_Sandbox_Tool: NSObject {
